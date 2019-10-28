@@ -1,5 +1,5 @@
 _repo: Specimen_60548
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Finlay, Virgil
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 60548-h/images/cover.jpg
 creator:
   author:
     agent_name: De Vet, Charles V.
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '32106'
     url: http://www.gutenberg.org/2009/agents/32106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60548#Specimen
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
